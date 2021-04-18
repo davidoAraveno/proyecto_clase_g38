@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hize los pasos para cambiar el proyecto a la version 6 y por alguna razon funcionaba solo si lo hacia desde la termina. EL terminal de visual studio servia para nada. Preferi dejarlo y informar aqui que probablemente no cambio a la version 6 asique porfavor revisen eso en caso de que de error.
